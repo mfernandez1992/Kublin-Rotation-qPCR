@@ -1,7 +1,7 @@
 # Kublin-Rotation-qPCR
 
 # Information and data pertaining to my qPCR experiments with the Kublin lab
-# 'Protocol' file will contain all primers, amplification conditions and qPCR chemistry information. 
+# 'Protocols' file will contain all primers, amplification conditions and qPCR chemistry information. 
 # 'Data' file will contain all raw data outputs from Quantstudio machine (Thermo). 
 # 'Scripts' file will contain R codes used in various analyses.
 
