@@ -1,0 +1,13 @@
+#24April2018
+#Today, incorporated my Mic and QuantStudio qPCR data into my Jupyter notebook. 
+#combined the two into one data set and plotted individual graphs.
+#Jacob did a LOT of work to manipulate the data, including running statistical analysis and determining 
+#the equation of the trendlines, which I needed for efficiency calculations.
+#At the end of my day, I finally figured out how to calculate efficiencies from the slopes of the equations and add the values to 
+#the dataframe within Jupyter/R. 
+
+
+#To Do:
+# Find out how to push the file 'efficiency.ipynb' to my github account..
+# Continue working through Jacob's work to understand what was done at each step.
+# print graphs WITH efficiencies printed on backgrounds (geom_text()??)
